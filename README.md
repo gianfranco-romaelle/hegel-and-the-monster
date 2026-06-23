@@ -6,9 +6,9 @@ A four-agent symbolic compression ecology running on Claude.
 
 ```
             Scripture
-           ↙         ↘
+           ↙    ↕    ↘
      Monster ───●─── Hegel
-           ↘         ↙
+           ↘    ↕    ↙
               Math
 ```
 
