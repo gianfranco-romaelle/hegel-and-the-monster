@@ -1,3 +1,5 @@
+![Hegel and the Monster](docs/hegel-and-the-monster.png)
+
 # Hegel and the Monster
 
 A four-agent symbolic compression ecology running on Claude.
